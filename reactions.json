@@ -1,0 +1,900 @@
+[
+    {
+        "reagents": [
+            {
+                "molecule": "PCl5",
+                "coefficient": 1,
+                "atom_indices": {
+                    "P": 1,
+                    "Cl": 5
+                }
+            },
+            {
+                "molecule": "H2O",
+                "coefficient": 4,
+                "atom_indices": {
+                    "H": 2,
+                    "O": 1
+                }
+            }
+        ],
+        "products": [
+            {
+                "molecule": "H3PO4",
+                "coefficient": 1,
+                "atom_indices": {
+                    "H": 3,
+                    "P": 1,
+                    "O": 4
+                }
+            },
+            {
+                "molecule": "HCl",
+                "coefficient": 5,
+                "atom_indices": {
+                    "H": 1,
+                    "Cl": 1
+                }
+            }
+        ]
+    },
+    {
+        "reagents": [
+            {
+                "molecule": "CH4",
+                "coefficient": 1,
+                "atom_indices": {
+                    "C": 1,
+                    "H": 4
+                }
+            },
+            {
+                "molecule": "O2",
+                "coefficient": 2,
+                "atom_indices": {
+                    "O": 2
+                }
+            }
+        ],
+        "products": [
+            {
+                "molecule": "CO2",
+                "coefficient": 1,
+                "atom_indices": {
+                    "C": 1,
+                    "O": 2
+                }
+            },
+            {
+                "molecule": "H2O",
+                "coefficient": 2,
+                "atom_indices": {
+                    "H": 2,
+                    "O": 1
+                }
+            }
+        ]
+    },
+    {
+        "reagents": [
+            {
+                "molecule": "H3PO4",
+                "coefficient": 2,
+                "atom_indices": {
+                    "H": 3,
+                    "P": 1,
+                    "O": 4
+                }
+            },
+            {
+                "molecule": "Mg(OH)2",
+                "coefficient": 3,
+                "atom_indices": {
+                    "Mg": 1,
+                    "O": 1,
+                    "H": 1
+                }
+            }
+        ],
+        "products": [
+            {
+                "molecule": "Mg3(PO4)2",
+                "coefficient": 1,
+                "atom_indices": {
+                    "Mg": 3,
+                    "P": 2,
+                    "O": 8
+                }
+            },
+            {
+                "molecule": "H2O",
+                "coefficient": 6,
+                "atom_indices": {
+                    "H": 2,
+                    "O": 1
+                }
+            }
+        ]
+    },
+    {
+        "reagents": [
+            {
+                "molecule": "C3H8",
+                "coefficient": 1,
+                "atom_indices": {
+                    "C": 3,
+                    "H": 8
+                }
+            },
+            {
+                "molecule": "O2",
+                "coefficient": 5,
+                "atom_indices": {
+                    "O": 2
+                }
+            }
+        ],
+        "products": [
+            {
+                "molecule": "CO2",
+                "coefficient": 3,
+                "atom_indices": {
+                    "C": 1,
+                    "O": 2
+                }
+            },
+            {
+                "molecule": "H2O",
+                "coefficient": 4,
+                "atom_indices": {
+                    "H": 2,
+                    "O": 1
+                }
+            }
+        ]
+    },
+    {
+        "reagents": [
+            {
+                "molecule": "Ag2SO3",
+                "coefficient": 1,
+                "atom_indices": {
+                    "Ag": 2,
+                    "S": 1,
+                    "O": 3
+                }
+            },
+            {
+                "molecule": "HCl",
+                "coefficient": 2,
+                "atom_indices": {
+                    "H": 1,
+                    "Cl": 1
+                }
+            }
+        ],
+        "products": [
+            {
+                "molecule": "AgCl",
+                "coefficient": 2,
+                "atom_indices": {
+                    "Ag": 1,
+                    "Cl": 1
+                }
+            },
+            {
+                "molecule": "H2O",
+                "coefficient": 1,
+                "atom_indices": {
+                    "H": 2,
+                    "O": 1
+                }
+            },
+            {
+                "molecule": "SO2",
+                "coefficient": 1,
+                "atom_indices": {
+                    "S": 1,
+                    "O": 2
+                }
+            }
+        ]
+    },
+    {
+        "reagents": [
+            {
+                "molecule": "Ca(OH)2",
+                "coefficient": 3,
+                "atom_indices": {
+                    "Ca": 1,
+                    "O": 2,
+                    "H": 2
+                }
+            },
+            {
+                "molecule": "H3PO4",
+                "coefficient": 2,
+                "atom_indices": {
+                    "H": 3,
+                    "P": 1,
+                    "O": 4
+                }
+            }
+        ],
+        "products": [
+            {
+                "molecule": "Ca3(PO4)2",
+                "coefficient": 1,
+                "atom_indices": {
+                    "Ca": 3,
+                    "P": 2,
+                    "O": 8
+                }
+            },
+            {
+                "molecule": "H2O",
+                "coefficient": 6,
+                "atom_indices": {
+                    "H": 2,
+                    "O": 1
+                }
+            }
+        ]
+    },
+    {
+        "reagents": [
+            {
+                "molecule": "PH3",
+                "coefficient": 3,
+                "atom_indices": {
+                    "P": 1,
+                    "H": 3
+                }
+            },
+            {
+                "molecule": "HNO3",
+                "coefficient": 8,
+                "atom_indices": {
+                    "H": 1,
+                    "N": 1,
+                    "O": 3
+                }
+            }
+        ],
+        "products": [
+            {
+                "molecule": "H3PO4",
+                "coefficient": 3,
+                "atom_indices": {
+                    "H": 3,
+                    "P": 1,
+                    "O": 4
+                }
+            },
+            {
+                "molecule": "NO",
+                "coefficient": 8,
+                "atom_indices": {
+                    "N": 1,
+                    "O": 1
+                }
+            },
+            {
+                "molecule": "H2O",
+                "coefficient": 4,
+                "atom_indices": {
+                    "H": 2,
+                    "O": 1
+                }
+            }
+        ]
+    },
+    {
+        "reagents": [
+            {
+                "molecule": "CrCl3",
+                "coefficient": 2,
+                "atom_indices": {
+                    "Cr": 1,
+                    "Cl": 3
+                }
+            },
+            {
+                "molecule": "NaClO3",
+                "coefficient": 1,
+                "atom_indices": {
+                    "Na": 1,
+                    "Cl": 1,
+                    "O": 3
+                }
+            },
+            {
+                "molecule": "NaOH",
+                "coefficient": 10,
+                "atom_indices": {
+                    "Na": 1,
+                    "O": 1,
+                    "H": 1
+                }
+            }
+        ],
+        "products": [
+            {
+                "molecule": "Na2CrO4",
+                "coefficient": 2,
+                "atom_indices": {
+                    "Na": 2,
+                    "Cr": 1,
+                    "O": 4
+                }
+            },
+            {
+                "molecule": "NaCl",
+                "coefficient": 7,
+                "atom_indices": {
+                    "Na": 1,
+                    "Cl": 1
+                }
+            },
+            {
+                "molecule": "H2O",
+                "coefficient": 5,
+                "atom_indices": {
+                    "H": 2,
+                    "O": 1
+                }
+            }
+        ]
+    },
+    {
+        "reagents": [
+            {
+                "molecule": "KMnO4",
+                "coefficient": 2,
+                "atom_indices": {
+                    "K": 1,
+                    "Mn": 1,
+                    "O": 4
+                }
+            },
+            {
+                "molecule": "Fe",
+                "coefficient": 5,
+                "atom_indices": {
+                    "Fe": 1
+                }
+            },
+            {
+                "molecule": "H2SO4",
+                "coefficient": 8,
+                "atom_indices": {
+                    "H": 2,
+                    "S": 1,
+                    "O": 4
+                }
+            }
+        ],
+        "products": [
+            {
+                "molecule": "FeSO4",
+                "coefficient": 5,
+                "atom_indices": {
+                    "Fe": 1,
+                    "S": 1,
+                    "O": 4
+                }
+            },
+            {
+                "molecule": "MnSO4",
+                "coefficient": 2,
+                "atom_indices": {
+                    "Mn": 1,
+                    "S": 1,
+                    "O": 4
+                }
+            },
+            {
+                "molecule": "K2SO4",
+                "coefficient": 1,
+                "atom_indices": {
+                    "K": 2,
+                    "S": 1,
+                    "O": 4
+                }
+            },
+            {
+                "molecule": "H2O",
+                "coefficient": 8,
+                "atom_indices": {
+                    "H": 2,
+                    "O": 1
+                }
+            }
+        ]
+    },
+    {
+        "reagents": [
+            {
+                "molecule": "Fe2O3",
+                "coefficient": 1,
+                "atom_indices": {
+                    "Fe": 2,
+                    "O": 3
+                }
+            },
+            {
+                "molecule": "CO",
+                "coefficient": 3,
+                "atom_indices": {
+                    "C": 1,
+                    "O": 1
+                }
+            }
+        ],
+        "products": [
+            {
+                "molecule": "Fe",
+                "coefficient": 2,
+                "atom_indices": {
+                    "Fe": 1
+                }
+            },
+            {
+                "molecule": "CO2",
+                "coefficient": 3,
+                "atom_indices": {
+                    "C": 1,
+                    "O": 2
+                }
+            }
+        ]
+    },
+    {
+        "reagents": [
+            {
+                "molecule": "NaClO",
+                "coefficient": 1,
+                "atom_indices": {
+                    "Na": 1,
+                    "Cl": 1,
+                    "O": 1
+                }
+            },
+            {
+                "molecule": "NaCl",
+                "coefficient": 1,
+                "atom_indices": {
+                    "Na": 1,
+                    "Cl": 1
+                }
+            },
+            {
+                "molecule": "H2SO4",
+                "coefficient": 1,
+                "atom_indices": {
+                    "H": 2,
+                    "S": 1,
+                    "O": 4
+                }
+            }
+        ],
+        "products": [
+            {
+                "molecule": "Na2SO4",
+                "coefficient": 1,
+                "atom_indices": {
+                    "Na": 2,
+                    "S": 1,
+                    "O": 4
+                }
+            },
+            {
+                "molecule": "Cl2",
+                "coefficient": 1,
+                "atom_indices": {
+                    "Cl": 2
+                }
+            },
+            {
+                "molecule": "H2O",
+                "coefficient": 1,
+                "atom_indices": {
+                    "H": 2,
+                    "O": 1
+                }
+            }
+        ]
+    },
+    {
+        "reagents": [
+            {
+                "molecule": "C2H5OH",
+                "coefficient": 3,
+                "atom_indices": {
+                    "C": 2,
+                    "H": 1,
+                    "O": 1
+                }
+            },
+            {
+                "molecule": "H2SO4",
+                "coefficient": 2,
+                "atom_indices": {
+                    "H": 2,
+                    "S": 1,
+                    "O": 4
+                }
+            },
+            {
+                "molecule": "K2Cr2O7",
+                "coefficient": 8,
+                "atom_indices": {
+                    "K": 2,
+                    "Cr": 2,
+                    "O": 7
+                }
+            }
+        ],
+        "products": [
+            {
+                "molecule": "Cr2(SO4)3",
+                "coefficient": 3,
+                "atom_indices": {
+                    "Cr": 2,
+                    "S": 3,
+                    "O": 12
+                }
+            },
+            {
+                "molecule": "K2SO4",
+                "coefficient": 2,
+                "atom_indices": {
+                    "K": 2,
+                    "S": 1,
+                    "O": 4
+                }
+            },
+            {
+                "molecule": "C2H4O2",
+                "coefficient": 2,
+                "atom_indices": {
+                    "C": 2,
+                    "H": 4,
+                    "O": 2
+                }
+            },
+            {
+                "molecule": "H2O",
+                "coefficient": 11,
+                "atom_indices": {
+                    "H": 2,
+                    "O": 1
+                }
+            }
+        ]
+    },
+    {
+        "reagents": [
+            {
+                "molecule": "Cd",
+                "coefficient": 1,
+                "atom_indices": {
+                    "Cd": 1
+                }
+            },
+            {
+                "molecule": "NiO2",
+                "coefficient": 1,
+                "atom_indices": {
+                    "Ni": 1,
+                    "O": 2
+                }
+            },
+            {
+                "molecule": "H2O",
+                "coefficient": 2,
+                "atom_indices": {
+                    "H": 2,
+                    "O": 1
+                }
+            }
+        ],
+        "products": [
+            {
+                "molecule": "Cd(OH)2",
+                "coefficient": 1,
+                "atom_indices": {
+                    "Cd": 1,
+                    "O": 2,
+                    "H": 2
+                }
+            },
+            {
+                "molecule": "Ni(OH)2",
+                "coefficient": 1,
+                "atom_indices": {
+                    "Ni": 1,
+                    "O": 2,
+                    "H": 2
+                }
+            }
+        ]
+    },
+    {
+        "reagents": [
+            {
+                "molecule": "NaBr",
+                "coefficient": 2,
+                "atom_indices": {
+                    "Na": 1,
+                    "Br": 1
+                }
+            },
+            {
+                "molecule": "MnO2",
+                "coefficient": 1,
+                "atom_indices": {
+                    "Mn": 1,
+                    "O": 2
+                }
+            },
+            {
+                "molecule": "H2SO4",
+                "coefficient": 3,
+                "atom_indices": {
+                    "H": 2,
+                    "S": 1,
+                    "O": 4
+                }
+            }
+        ],
+        "products": [
+            {
+                "molecule": "MnSO4",
+                "coefficient": 1,
+                "atom_indices": {
+                    "Mn": 1,
+                    "S": 1,
+                    "O": 4
+                }
+            },
+            {
+                "molecule": "Br2",
+                "coefficient": 1,
+                "atom_indices": {
+                    "Br": 2
+                }
+            },
+            {
+                "molecule": "H2O",
+                "coefficient": 2,
+                "atom_indices": {
+                    "H": 2,
+                    "O": 1
+                }
+            },
+            {
+                "molecule": "NaHSO4",
+                "coefficient": 2,
+                "atom_indices": {
+                    "Na": 1,
+                    "H": 1,
+                    "S": 1,
+                    "O": 4
+                }
+            }
+        ]
+    },
+    {
+        "reagents": [
+            {
+                "molecule": "HCl",
+                "coefficient": 14,
+                "atom_indices": {
+                    "H": 1,
+                    "Cl": 1
+                }
+            },
+            {
+                "molecule": "K2Cr2O7",
+                "coefficient": 1,
+                "atom_indices": {
+                    "K": 2,
+                    "Cr": 2,
+                    "O": 7
+                }
+            }
+        ],
+        "products": [
+            {
+                "molecule": "KCl",
+                "coefficient": 2,
+                "atom_indices": {
+                    "K": 1,
+                    "Cl": 1
+                }
+            },
+            {
+                "molecule": "CrCl3",
+                "coefficient": 2,
+                "atom_indices": {
+                    "Cr": 1,
+                    "Cl": 3
+                }
+            },
+            {
+                "molecule": "Cl2",
+                "coefficient": 3,
+                "atom_indices": {
+                    "Cl": 2
+                }
+            },
+            {
+                "molecule": "H2O",
+                "coefficient": 7,
+                "atom_indices": {
+                    "H": 2,
+                    "O": 1
+                }
+            }
+        ]
+    },
+    {
+        "reagents": [
+            {
+                "molecule": "FeCl2",
+                "coefficient": 2,
+                "atom_indices": {
+                    "Fe": 1,
+                    "Cl": 2
+                }
+            },
+            {
+                "molecule": "HCl",
+                "coefficient": 1,
+                "atom_indices": {
+                    "H": 1,
+                    "Cl": 1
+                }
+            },
+            {
+                "molecule": "H2O2",
+                "coefficient": 2,
+                "atom_indices": {
+                    "H": 2,
+                    "O": 2
+                }
+            }
+        ],
+        "products": [
+            {
+                "molecule": "FeCl3",
+                "coefficient": 2,
+                "atom_indices": {
+                    "Fe": 1,
+                    "Cl": 3
+                }
+            },
+            {
+                "molecule": "H2O",
+                "coefficient": 2,
+                "atom_indices": {
+                    "H": 2,
+                    "O": 1
+                }
+            }
+        ]
+    },
+    {
+        "reagents": [
+            {
+                "molecule": "KMnO4",
+                "coefficient": 1,
+                "atom_indices": {
+                    "K": 1,
+                    "Mn": 1,
+                    "O": 4
+                }
+            },
+            {
+                "molecule": "H2O2",
+                "coefficient": 1,
+                "atom_indices": {
+                    "H": 2,
+                    "O": 2
+                }
+            },
+            {
+                "molecule": "H2SO4",
+                "coefficient": 1,
+                "atom_indices": {
+                    "H": 2,
+                    "S": 1,
+                    "O": 4
+                }
+            }
+        ],
+        "products": [
+            {
+                "molecule": "K2SO4",
+                "coefficient": 1,
+                "atom_indices": {
+                    "K": 2,
+                    "S": 1,
+                    "O": 4
+                }
+            },
+            {
+                "molecule": "MnSO4",
+                "coefficient": 1,
+                "atom_indices": {
+                    "Mn": 1,
+                    "S": 1,
+                    "O": 4
+                }
+            },
+            {
+                "molecule": "H2O",
+                "coefficient": 1,
+                "atom_indices": {
+                    "H": 2,
+                    "O": 1
+                }
+            },
+            {
+                "molecule": "O2",
+                "coefficient": 1,
+                "atom_indices": {
+                    "O": 2
+                }
+            }
+        ]
+    },
+    {
+        "reagents": [
+            {
+                "molecule": "Cl2",
+                "coefficient": 1,
+                "atom_indices": {
+                    "Cl": 2
+                }
+            },
+            {
+                "molecule": "NaOH",
+                "coefficient": 2,
+                "atom_indices": {
+                    "Na": 1,
+                    "O": 1,
+                    "H": 1
+                }
+            }
+        ],
+        "products": [
+            {
+                "molecule": "NaClO",
+                "coefficient": 1,
+                "atom_indices": {
+                    "Na": 1,
+                    "Cl": 1,
+                    "O": 1
+                }
+            },
+            {
+                "molecule": "NaCl",
+                "coefficient": 1,
+                "atom_indices": {
+                    "Na": 1,
+                    "Cl": 1
+                }
+            },
+            {
+                "molecule": "H2O",
+                "coefficient": 1,
+                "atom_indices": {
+                    "H": 2,
+                    "O": 1
+                }
+            }
+        ]
+    }
+]
